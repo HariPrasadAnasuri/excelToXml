@@ -1,0 +1,14 @@
+<Persons xmlns:x="http://www.groovy-lang.org">
+  <Person name="Balakrishna" age="23">
+    <Address housenumber="123-124" street="Streat X" district="District X" town="Streat X" zipcode="123456.0" />
+  </Person>
+  <Person name="Ruben" age="34">
+    <Address housenumber="123-125" street="Streat Y" district="District Y" town="Streat Y" zipcode="123457.0" />
+  </Person>
+  <Person name="Bryan" age="54">
+    <Address housenumber="123-126" street="Streat Z" district="District Z" town="Streat Z" zipcode="123458.0" />
+  </Person>
+  <Person name="Suhasini" age="35">
+    <Address housenumber="123-127" street="Streat A" district="District A" town="Streat A" zipcode="123459.0" />
+  </Person>
+</Persons>
